@@ -12,7 +12,9 @@ Currently, I am pursuing a Master of Information Systems Management (BIDA track)
 Before that, I graduated from New York Univeristy Shanghai with a Bachelor of Science in computer science and data science.
 
 # What I hope to learn
-I hope to create a publicly accessible portfolio not only for the course, but also as a platform where I can demonstrate my work. 
+I hope to create a publicly accessible portfolio not only for the course, but also as a platform where I can demonstrate my work.
+
+I plan on becoming a software development engineer after I graduate, but we'll see how things go 😊.
 
 # Portfolio
 
