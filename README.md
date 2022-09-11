@@ -19,6 +19,6 @@ I haven't thought about what I would do in the long run. But after I graduate, I
 # Portfolio
 
 ### Data visualizations 
-[Link to other page](dataviz2.md)
+[Visualizing government debt](dataviz2.md)
 
 ### Final Project
