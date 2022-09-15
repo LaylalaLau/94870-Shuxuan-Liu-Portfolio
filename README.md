@@ -20,6 +20,7 @@ I haven't thought about what I would do in the long run. But after I graduate, I
 
 ### Data visualizations 
 [Visualizing government debt](/dataviz2.md)
+
 [Critique by Design](/CritiqueByDesign.md)
 
 ### Final Project
