@@ -59,7 +59,7 @@ There is a positive relationship between the number of deaths in 1990 with the n
 It's a little blank. 
 
 - Who do you think is the intended audience for this?
-It's fpr presentations on this topic. 
+It's for presentations on this topic. 
 
 - Is there anything you would change or do differently?
 (I told the person the goal is to see if the global number of deaths from outdoor air pollution has increased.) There should be explanations on what the dots are.
@@ -69,3 +69,6 @@ It's fpr presentations on this topic.
 Based on the feedback, using a scatter plot with reference line prompts people to think the goal is to show a positive relationship between the number of deaths in 1990 with the number in 2019. And it would be clearer to just show the difference in numbers direcly. Therefore, I came up with the bar chart. The difference is calculated using the number of deaths in 2019 minus number of deaths in 1990, as indicated by the subtitle. A negative difference means the number declined, and a positive difference means the number increased. Moreover, using the numbers directly instead of log shows the magnitude of numbers correcetly. An improvement I can make with the bar chart is to color the positive and negative numbers using two contrasting colors. I did not figure out how to do this in Flourish,
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11227678"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+[Return to Homepage](/README.md)
