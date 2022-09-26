@@ -4,7 +4,7 @@
 
 I spend much of my free time playing video games on Switch and PS5 with my friends. Therefore, for this project, I intend to study and visualize data about video games. 
 
-The Gaming Market was valued at USD 198.40 billion in 2021, and it is expected to reach a value of USD 339.95 billion by 2027, registering a CAGR of 8.94% over 2022-2027. In my project, I would visualize the trend of global/regional video game sales (line chart), correlation of video game score and sales (scatter plot), and how much of total sales games from each genre/platform/publisher makes up (bar chart, pie chart, stacked area graph, bubble chart, heatmaps, etc.). I hope the audience can have a better sense of how the gaming market evolves, and what games are most popular after reading my story. I also hope to discover some good games as well ^_^
+Gaming has evolved to become a multibillion-dollar market today. In my project, I would visualize the trend of global/regional video game sales (line chart), correlation of video game score and sales (scatter plot), and how much of total sales games from each genre/platform/publisher makes up (bar chart, pie chart, stacked area graph, bubble chart, heatmaps, etc.). I hope the audience can have a better sense of how the gaming market evolves, and what games are most popular after reading my story. I also hope to discover some good games as well ^_^
 
 ### Initial Sketches
 
@@ -21,7 +21,5 @@ In a few paragraphs, you should document how you plan on completing your final p
 Finally, for your final project presentation I'd discourage an over-reliance on PowerPoint slides. If you need to use a few slides to frame the context of your final project presentation (a pitch deck) that's ok - but your Powerpoint slides alone are not sufficient in meeting the requirements of the final project deliverable.  Your final project deliverable must be an interactive, stand-alone project (e.g. something you've created using Shorthand or another platform) that won't require a future employer clicking through yet another PowerPoint deck. 
 
 ### References
-
-Gaming market size, share: 2022 - 27: Industry growth. Gaming Market Size, Share | 2022 - 27 | Industry Growth. (n.d.). Retrieved September 26, 2022, from https://www.mordorintelligence.com/industry-reports/global-gaming-market 
 
 [Return to Homepage](/README.md)
