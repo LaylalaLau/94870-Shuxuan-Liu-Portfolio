@@ -24,3 +24,4 @@ I haven't thought about what I would do in the long run. But after I graduate, I
 [Critique by Design](/CritiqueByDesign.md)
 
 ### Final Project
+[Final Project Overview](/final_project_ShuxuanLiu.md)
