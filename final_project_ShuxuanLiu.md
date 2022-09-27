@@ -7,10 +7,13 @@ I spend much of my free time playing video games on Switch and PS5 with my frien
 Gaming has evolved to become a multibillion-dollar market today. In my project, I would visualize the trend of global/regional video game sales (line chart), correlation of video game score and sales (scatter plot), and how much of total sales games from each genre/platform/publisher makes up (bar chart, pie chart, stacked area graph, bubble chart, heatmaps, etc.). I hope the audience can have a better sense of how the gaming market evolves, and what games are most popular after reading my story. I also hope to discover some good games as well ^_^
 
 ### Initial Sketches
-![Line chart for global/regional video game sales](linechart.png)
-![Line chart for global/regional video game sales](scatter plot.png)
-![Line chart for global/regional video game sales](sizechart.png)
-![Line chart for global/regional video game sales](stackedareachart.png)
+
+I will use a line chart to show trend in global/regional video game sales. The header will be "Global/Regional Video Game Sales in Millions". The x-axis is year and the y-axis is sales.
+
+![](linechart.png)
+![](scatterplot.png)
+![](sizechart.png)
+![](stackedareachart.png)
 
 ### Data
 https://data.world/sumitrock/video-games-sales
