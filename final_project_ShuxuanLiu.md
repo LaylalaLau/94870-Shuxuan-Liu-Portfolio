@@ -8,8 +8,9 @@ Gaming has evolved to become a multibillion-dollar market today. In my project, 
 
 ### Initial Sketches
 ![Line chart for global/regional video game sales](linechart.png)
-
-
+![Line chart for global/regional video game sales](scatter plot.png)
+![Line chart for global/regional video game sales](sizechart.png)
+![Line chart for global/regional video game sales](stackedareachart.png)
 
 ### Data
 https://data.world/sumitrock/video-games-sales
