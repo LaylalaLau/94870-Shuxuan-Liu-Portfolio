@@ -1,4 +1,6 @@
-# Final project overview
+# Final project Overview
+
+## Part I
 
 ### Outline 
 
@@ -29,5 +31,13 @@ I will build the graphs and plots using Tableau and Flourish. The story will be 
 
 ### References
 Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retrieved September 26, 2022, from https://data.world/sumitrock/video-games-sales 
+
+## Part II
+
+### Wireframes and storyboards
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11363121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### User research and interviews
 
 [Return to Homepage](/README.md)
