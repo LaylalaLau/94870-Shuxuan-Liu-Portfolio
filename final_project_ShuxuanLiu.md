@@ -37,6 +37,7 @@ Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retri
 ## Part II
 
 ### Wireframes and storyboards
+See below for data visualization drafts in the wireframe (graph 1, 2, and 3) 
 
 <img src="1.png" width="1000">
 <img src="2.png" width="1000">
