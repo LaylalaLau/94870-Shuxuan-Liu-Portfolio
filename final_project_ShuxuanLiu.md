@@ -52,4 +52,10 @@ Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retri
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11365123"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### References
+
+Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retrieved September 26, 2022, from https://data.world/sumitrock/video-games-sales 
+
+Perrin, A. (2020, May 30). Social Media Usage: 2005-2015. Pew Research Center: Internet, Science &amp; Tech. Retrieved October 3, 2022, from https://www.pewresearch.org/internet/2015/10/08/social-networking-usage-2005-2015/ 
+
 [Return to Homepage](/README.md)
