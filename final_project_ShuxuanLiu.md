@@ -11,7 +11,6 @@ Gaming has evolved to become a multibillion-dollar market today. In my project, 
 ### Initial Sketches
 
 I will use a line chart to show trend in global/regional video game sales. The header will be "Global/Regional Video Game Sales in Millions". The x-axis is year and the y-axis is sales.
-![](linechart.png | width=100)
 <img src="linechart.png" width="100">
 
 I will use a scatter plot to draw the correlation of video game score and sales. The header will be "Video Game Score V.S. Sales". The x-axis is score and the y-axis is sales. There are two sets of scores (critic score and user score) for each game. I will use yellow points to represent user score, green points to represent critic score.
