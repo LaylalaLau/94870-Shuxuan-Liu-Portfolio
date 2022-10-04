@@ -49,7 +49,7 @@ Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retri
 <div class="flourish-embed" data-src="visualisation/11364840"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ##### Graph 2
-<div class="flourish-embed flourish-chart" data-src="visualisation/11365036"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11365123"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ##### Graph 3
 <div class="flourish-embed flourish-chart" data-src="visualisation/11363121" width="50" height="50"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -60,14 +60,26 @@ Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retri
 
 ### User research and interviews
 
+**Target audience**: people who want to learn about entertainment trends
+
+**Approach to identifying representative individuals to interview**
+
+**Interview script**:
+
+**Interview findings**:
 
 ### Revised Wireframes and storyboards
 
+##### Revised section 1
+Adding a pie/chart to the first section to give background on how people used to spend their time.
+
 ##### Revised graph 2
-<div class="flourish-embed flourish-chart" data-src="visualisation/11365123"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Add a line explaining the size if proportional to global sales of the genre.
+
+##### Revised graph 2
+Make the horizontal stacked bar chart vertical
 
 ##### Revised graph 3
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/11363587" width="50" height="50"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### References
