@@ -36,6 +36,10 @@ Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retri
 
 ### Wireframes and storyboards
 
+<object data="Final Project.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+### Data Visulization Drafts
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11363121" width="50" height="50"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed" data-src="visualisation/11364840"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
