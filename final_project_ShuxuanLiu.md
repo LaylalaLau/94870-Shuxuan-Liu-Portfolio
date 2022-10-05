@@ -65,17 +65,21 @@ This is the origianl chart from the Statistica website. I'll reorder the bar cha
 **Approach to identifying representative individuals to interview**: The target audience of this story is not hard to find. My interviewees are three graduate students who are interested in learning about entertainment trends. The critique group from class algo gave me some feedback.
 
 **Interview script and findings**:
-| Question | Feedback |
+What are your first impressions after reading through the storyboard?
 
-| --- | --- |
+Some of the interviewees said they did not realize the purpose of the storyboard is to show changes in people's entertainment until they've reached the last section. They also thought flow of the story needs more explanation. 
 
-| *What are your first impressions after reading through the storyboard?* | Some of the interviewees said they did not realize the purpose of the storyboard is to show changes in people's entertainment until they've reached the last section. They also thought flow of the story needs more explanation. |
+Is there anything you like/dislike?
 
-| *Is there anything you like/dislike?* | They thought the graphs were nice but lacked explanation. They were hoping for better subtitles, texts, and annotations in the graph that could guide them through the story. |
+They thought the graphs were nice but lacked explanation. They were hoping for better subtitles, texts, and annotations in the graph that could guide them through the story. 
 
-| *What other things would you like to see or change?* | A chart on how people used to spend their time in the first section would help people get the idea that it's showing peoples are playing less video games and more onto other entertainme methods, such as social media. For graph 2, if the goal is to show people are playing less video games, a vertical bar chart with year on the x-axis would make more sense. |
+What other things would you like to see or change?
 
-| *What did you take away?* | People are spending more of their leisure time on social media, compared to video games. |
+A chart on how people used to spend their time in the first section would help people get the idea that it's showing peoples are playing less video games and more onto other entertainme methods, such as social media. For graph 2, if the goal is to show people are playing less video games, a vertical bar chart with year on the x-axis would make more sense. 
+
+What did you take away?
+
+People are spending more of their leisure time on social media, compared to video games. 
 
 ### Revised Wireframes and storyboards
 The story board starts with showing people gaming was once the largest sector in the entertainment business, whose sales were gradually shrinking. The next two sections are on other types of entertainments rising and peoples spending more time on these areas.
