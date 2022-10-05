@@ -46,7 +46,6 @@ See below for data visualization drafts in the wireframe (graph 1, 2, and 3)
 ### Data Visulization Drafts
 
 ##### Graph 1
-
 <div class="flourish-embed" data-src="visualisation/11364840"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ##### Graph 2
@@ -55,38 +54,44 @@ See below for data visualization drafts in the wireframe (graph 1, 2, and 3)
 ##### Graph 3
 <div class="flourish-embed flourish-chart" data-src="visualisation/11363121" width="50" height="50"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-##### Some other sketches
-<div class='tableauPlaceholder' id='viz1664836709197' style='position: relative'><noscript><a href='#'><img alt='Video Game Scores V.S. Global Sales ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGameScoreVS_Sales&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VideoGameScoreVS_Sales&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vi&#47;VideoGameScoreVS_Sales&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1664836709197');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
- </div>
+##### Last graph
+This is the origianl chart from the Statistica website. I'll redesign the bar chart in my storyboard.
+<img src="Statista-Outlook-Entertainment---Daily-App-Usage-in-US--Canada-United-States.png" width="1000">
 
 ### User research and interviews
 
 **Target audience**: people who want to learn about entertainment trends
 
-**Approach to identifying representative individuals to interview**
+**Approach to identifying representative individuals to interview**: The target audience of this story is not hard to find. My interviewees are three graduate students who are interested in learning about entertainment trends. The critique group from class algo gave me some feedback.
 
-**Interview script**:
-
-**Interview findings**:
+**Interview script and findings**:
+| Question | Feedback |
+| -------- | -------- |
+| *What are your first impressions after reading through the storyboard?* | Some of the interviewees said they did not realize the purpose of the storyboard is to show changes in people's entertainment until they've reached the last section. |
+| *Is there anything you like/dislike?* | 
+| *What other things would you like to see or change?*| A chart on how people used to spend their time in the first section would help people understand the purpose.
+| *What did you take away?* | People are spending more of their leisure time on social media, compared to video games. |
 
 ### Revised Wireframes and storyboards
 
 ##### Revised section 1
-Adding a pie/chart to the first section to give background on how people used to spend their time.
+Adding a pie/chart to the first section to give background on how people used to spend their time on entertainment.
 
 ##### Revised graph 2
-Add a line explaining the size if proportional to global sales of the genre.
+Add a line under the title to explain the size of the bubble chart is proportional to global sales of video games in the genre.
 
 ##### Revised graph 2
-Make the horizontal stacked bar chart vertical
+Since the goal is to show people are spending less time playing video games, it is more interpretabe to make the stacked bar chart vertical.
 
 ##### Revised graph 3
+Change the title from "Global Sales by Year" to "Is the Video Market Shrinking?" better reflects that people are playing video games less. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11363587" width="50" height="50"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### References
-
 Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retrieved September 26, 2022, from https://data.world/sumitrock/video-games-sales 
 
 Perrin, A. (2020, May 30). Social Media Usage: 2005-2015. Pew Research Center: Internet, Science &amp; Tech. Retrieved October 3, 2022, from https://www.pewresearch.org/internet/2015/10/08/social-networking-usage-2005-2015/ 
+
+Entertainment - united states. Statista. (n.d.). Retrieved October 4, 2022, from https://www.statista.com/outlook/dmo/app/entertainment/united-states#users 
 
 [Return to Homepage](/README.md)
