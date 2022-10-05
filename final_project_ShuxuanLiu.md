@@ -37,7 +37,7 @@ Video games sales - dataset by sumitrock. data.world. (2019, December 29). Retri
 ## Part II
 
 ### Wireframes and storyboards
-See below for data visualization drafts in the wireframe (graph 1, 2, and 3) 
+See below for data visualization drafts in the wireframe (graph 1, 2, 3, and the last graph) 
 
 <img src="1.png" width="1000">
 <img src="2.png" width="1000">
@@ -80,6 +80,7 @@ This is the origianl chart from the Statistica website. I'll reorder the bar cha
 | *What did you take away?* | People are spending more of their leisure time on social media, compared to video games. |
 
 ### Revised Wireframes and storyboards
+The story board starts with showing people gaming was once the largest sector in the entertainment business, whose sales were gradually shrinking. The next two sections are on other types of entertainments rising and peoples spending more time on these areas.
 
 ##### Revised section 1
 Adding a pie/chart to the first section to give background on how people used to spend their time on entertainment.
