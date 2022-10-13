@@ -4,7 +4,7 @@
 
 ### Storyboard Design
 
-<img src="final_project_1.png" width="1000">
+<img src="images/final_project_1.png" width="1000">
 
 The story starts with a box plot on people's rating of enjoyment of different activities. Gaming was once a very popular leisure activity. I added this section in Part III because based on the feedback I received, some interviwees thought the purpose of the story was to analyze the gaming market. 
 
@@ -41,7 +41,7 @@ Ortiz-Ospina, E. (2020, December 8). How do people across the world spend their 
 
 Desktop Game HD wallpapers on WallpaperDog. on WallpaperDog. (n.d.). Retrieved October 9, 2022, from https://wallpaper.dog/desktop-game-hd-wallpapers
 
-Unsplash. (n.d.). 1000+ dark background music pictures: Download free images on unsplash. 1000+ Dark Background Music Pictures | Download Free Images on Unsplash. Retrieved October 9, 2022, from https://unsplash.com/s/photos/dark-background-music
+Unsplash. (n.d.). 1000+ dark background music pictures: Download free images on unsplash. 1000+ Dark Background Music Pictures \| Download Free Images on Unsplash. Retrieved October 9, 2022, from https://unsplash.com/s/photos/dark-background-music
 
 Leisure time concept clock closeup isolated on white background with red and black words. 123RF. (n.d.). Retrieved October 9, 2022, from https://www.123rf.com/photo_12727901_leisure-time-concept-clock-closeup-isolated-on-white-background-with-red-and-black-words.html
 
