@@ -55,7 +55,7 @@ See below for data visualization drafts in the wireframe (graph 1, 2, 3, and the
 
 ##### Last graph
 This is the origianl chart from the Statistica website. I'll reorder the bar chart by length in my storyboard.
-<img src="Statista-Outlook-Entertainment---Daily-App-Usage-in-US--Canada-United-States.png" width="1000">
+<img src="images/Statista-Outlook-Entertainment---Daily-App-Usage-in-US--Canada-United-States.png" width="1000">
 
 ### User research and interviews
 
