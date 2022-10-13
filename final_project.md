@@ -22,6 +22,9 @@ My intended audience is people who wants to learn about trends in leisure activi
 ### Final Data Story
 [https://carnegiemellon.shorthandstories.com/shuxuanl/index.html](https://carnegiemellon.shorthandstories.com/shuxuanl/index.html)
 
+### GitHub Repository
+[https://github.com/LaylalaLau/Shuxuan-Liu-Portfolio](https://github.com/LaylalaLau/Shuxuan-Liu-Portfolio)
+
 ### References
 
 ##### Dataset:
