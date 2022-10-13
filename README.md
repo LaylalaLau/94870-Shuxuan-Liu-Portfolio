@@ -25,3 +25,5 @@ I haven't thought about what I would do in the long run. But after I graduate, I
 
 ### Final Project
 [Final Project Overview](/final_project_ShuxuanLiu.md)
+
+[Final Project Writeup](/final_project.md)
